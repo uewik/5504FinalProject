@@ -1,5 +1,5 @@
-# 5504FinalProject
-Instruction Fusion (lui+addi) on Rocket Core
+# Instruction Fusion on Rocket Core
+Implement lui+addi on Rocket Core
 
 How to use:
 - make clean
