@@ -6,4 +6,4 @@ How to use:
 - Run command `make clean`
 - Relace the original RocketCore.scala file in Chipyard with this one.
 - Run command `make`
-- run benchmarks.
+- Run benchmarks.
